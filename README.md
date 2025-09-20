@@ -22,4 +22,3 @@ export OPENAI_API_KEY=sk-...  # macOS/Linux
 1. Installa Ollama e avvia `ollama serve`
 2. Scarica un modello: `ollama pull llama3.1:8b`
 3. Vedi commenti in `Lc4jChatService` per abilitare Ollama.
-# HelpDeskAI
